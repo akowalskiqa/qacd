@@ -1,0 +1,13 @@
+*.class
+*.log
+*.idea
+# sbt specific
+dist/*
+target/
+project/
+lib_managed/
+src_managed/
+project/boot/
+pom.xml
+qacd.iml
+src/
